@@ -3,4 +3,10 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colortransparent">#00000000</color>
+    <color name="colorgradientStart">#020024</color>
+    <color name="colorgradientEnd">#23A7D8</color>
+    <color name="stop">#D80E25</color>
 </resources>
